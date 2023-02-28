@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+   >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="회원님의 소중한 정보 보호를 위해, 카카오계정의 현재 비밀번호를 사용해주세요"
+        android:textSize="17dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

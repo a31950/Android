@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ProApplication1</string>
+    <string name="app_des">만보기 애플리케이션</string>
+    <string name="short_text">2019년 4월 26일에 고양이 영상을 올리며 유튜브를 시작했으나, 본격적인 유튜버는 아니었다. 2021년 나는 SOLO 4기에 영철 이라는 가명으로 출연했다.</string>
+    <string name="long_text">2021년 봄에 명현만과의 스파링을 요청한 것이나, 방송 출연 후 갑자기 본격적으로 유튜브를 시작하겠다고 말한 것, 이후 방송인을 자처하는 것 등을 보면 애초에 방송에 출연한 동기도 상당히 의심스럽다. 어쩌면 짝 시절이었으면 시작하기도 전에 퇴출당했을 사람이 나는 SOLO에 출연하게 된 것이 이 모든 사단의 원흉일지도 모른다. 참 여러모로 대단히 안 좋은 쪽으로 방송 홍보에 기여한 셈이다.</string>
 </resources>

@@ -1,11 +1,11 @@
-package com.example.ch6_view
+package com.example.myapplication
 
-import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main_ex)
+        setContentView(R.layout.activity_main)
     }
 }

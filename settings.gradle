@@ -16,3 +16,4 @@ rootProject.name = "Proapplication"
 include ':app'
 include ':proapplication1'
 include ':ch6_view'
+include ':myapplication'

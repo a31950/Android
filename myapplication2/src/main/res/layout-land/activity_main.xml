@@ -2,27 +2,21 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="10dp"
+    android:orientation="vertical"
     >
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/imageView"
-        android:layout_centerHorizontal="true"
-        android:src="@drawable/htm" />
 
     <TextView
         android:id="@+id/mainTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="370dp"
+        android:layout_marginTop="20dp"
         android:gravity="center_horizontal"
-        android:text="박영철 동무 어서 오라우!"
+        android:text="@string/intro_main"
         android:textSize="20dp"
         android:textStyle="bold"
-         />
+        />
 
     <TextView
         android:id="@+id/detailTextView"
@@ -35,15 +29,15 @@
         android:text="@string/intro_detail"
         />
     <TextView
-    android:id="@+id/delayTextView"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:layout_alignParentBottom="true"
-    android:layout_centerHorizontal="true"
-    android:layout_marginBottom="20dp"
-    android:gravity="center_horizontal"
-    android:text="@string/intro_delay"
-    />
+        android:id="@+id/delayTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:gravity="center_horizontal"
+        android:text="@string/intro_delay"
+        />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

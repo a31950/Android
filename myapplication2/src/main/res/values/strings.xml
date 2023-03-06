@@ -1,3 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">myapplication2</string>
+<string name="app_name">myapplication2</string>
+<string name="intro_main">
+        우리 당의 혁명전통을 대를 이어 계승발전시기자!
+    </string>
+<string name="intro_detail">
+    간악한 영철의 주둥아리에 핵폭탄을 물려봐야 뜨거운 맛을 알려는지,
+        우리 당을 얍짭아본 대가를 톡톡히 치뤄 주겄어! 얍!!
+    </string>
+<string name ="intro_more">혁명적인 영철동무</string>
+<string name ="intro_button">나래나래 하라!</string>
+<string name ="intro_delay">그갈러 되갔어?</string>
 </resources>
